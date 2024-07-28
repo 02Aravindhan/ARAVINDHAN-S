@@ -1,6 +1,6 @@
- Hi 👋, I'm ARAVINDHAN.S</h1>
+                    Hi 👋, I'm ARAVINDHAN.S</h1>
 
-     Cloud Engineer Intern @CloudSlize
+                 Cloud Engineer Intern @CloudSlize
 
 - 🔭 I’m currently working on **CloudSlize**
 
@@ -10,7 +10,7 @@
 
 - ⚡I’m Working On **Terraform project task on 02Aravindhan/project (github.com)**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
