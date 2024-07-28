@@ -1,6 +1,6 @@
-                    Hi 👋, I'm ARAVINDHAN.S</h1>
-
-                 Cloud Engineer Intern @CloudSlize
+                                           Hi 👋, I'm ARAVINDHAN.S
+                                           
+                                        Cloud Engineer Intern @CloudSlize
 
 - 🔭 I’m currently working on **CloudSlize**
 
